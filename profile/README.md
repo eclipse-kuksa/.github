@@ -44,7 +44,6 @@ Repositories in status Beta or Production may also occasionally be security audi
 
 ### General Use Clients and SDKs
 
-
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
 | [kuksa-python-sdk ](https://github.com/eclipse-kuksa/kuksa-python-sdk)| Production | KUKSA Python Client and SDK
@@ -58,7 +57,7 @@ Repositories in status Beta or Production may also occasionally be security audi
 | [kuksa-dds-provider](https://github.com/eclipse-kuksa/kuksa-dds-provider)| Beta | Python-based provider for DDS
 | [kuksa-gps-provider](https://github.com/eclipse-kuksa/kuksa-gps-provider)| Beta | Python-based provider for gpsd
 | [kuksa-someip-provider](https://github.com/eclipse-kuksa/kuksa-someip-provider)| Alpha | Python-based PoC provider for SOME/IP using vsomeip
-
+| [kuksa-mock-provider](https://github.com/eclipse-kuksa/kuksa-mock-provider)| Alpha | Python-based provider for mocking VSS signals (to help testing VSS applications)
 
 ### Android Development
 
@@ -90,7 +89,8 @@ Repositories in status Beta or Production may also occasionally be security audi
 
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
-| [kuksa-viss ](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
+| [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
+| [kuksa-incubation](https://github.com/eclipse-kuksa/kuksa-incubation)| Alpha | Proof-of-Concepts, Demonstrators and other contributions that not (yet) qualify for being separate repositories
 
 
 ## Other Eclipse KUKSA Repositories not in this organization
@@ -101,6 +101,6 @@ Repositories in status Beta or Production may also occasionally be security audi
 
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
-| [kuksa.val](https://github.com/eclipse/kuksa.val)| Alpha/Deprecated | Feeders/Providers
-| [kuksa.val.feeders](https://github.com/eclipse/kuksa.val.feeders)| Production/Mature/Deprecated | KUKSA Databroker, KUKSA Server,KUKSA Go Client and more
-| [kuksa.val.services](https://github.com/eclipse/kuksa.val.services)| Alpha | Examples services using KUKSA
+| [kuksa.val](https://github.com/eclipse/kuksa.val)| Production/Mature/Deprecated | KUKSA Databroker, KUKSA Server, KUKSA Go Client and more
+| [kuksa.val.feeders](https://github.com/eclipse/kuksa.val.feeders)| Alpha/Deprecated| Feeders/Providers, all to be migrated or deprecated
+| [kuksa.val.services](https://github.com/eclipse/kuksa.val.services)| Alpha/Deprecated| Examples services using KUKSA, all migrated
