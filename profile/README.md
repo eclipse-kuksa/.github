@@ -40,6 +40,7 @@ Repositories in status Beta or Production may also occasionally be security audi
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
 | [kuksa-databroker](https://github.com/eclipse-kuksa/kuksa-databroker)| Production | KUKSA Databroker.
+| [kuksa-perf](https://github.com/eclipse-kuksa/kuksa-perf)| Beta | Application testing performance of KUKSA Databroker.
 
 ### General Use Clients and SDKs
 
@@ -90,17 +91,17 @@ Repositories in status Beta or Production may also occasionally be security audi
 |-----------------------|----------------|---------------------|
 | [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
 | [kuksa-incubation](https://github.com/eclipse-kuksa/kuksa-incubation)| Alpha | Proof-of-Concepts, Demonstrators and other contributions that not (yet) qualify for being separate repositories
+| [kuksa.val.feeders](https://github.com/eclipse-kuksa/kuksa.val.feeders)| End-of-Life (Archived)| Feeders/Providers, all except deprecated providers migrated.
+| [kuksa.val.services](https://github.com/eclipse-kuksa/kuksa.val.services)| End-of-Life (Archived) | Examples services using KUKSA, all migrated
 
 
 ## Other Eclipse KUKSA Repositories not in this organization
 
-### Deprecated Repositories
+### Deprecated and Archived Repositories
 
 *The repositories below contain outdated or deprecated content and should not be used unless you need to use a deprecated component*
 *or an older version!*
 
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
-| [kuksa.val](https://github.com/eclipse/kuksa.val)| Deprecated | KUKSA Server and some more deprecated artifacts
-| [kuksa.val.feeders](https://github.com/eclipse/kuksa.val.feeders)| Deprecated| Feeders/Providers, all except deprecated providers migrated.
-| [kuksa.val.services](https://github.com/eclipse/kuksa.val.services)| Deprecated| Examples services using KUKSA, all migrated
+| [kuksa.val](https://github.com/eclipse/kuksa.val)| Deprecated (EoL 2024-12-31) | KUKSA Server and some more deprecated artifacts
