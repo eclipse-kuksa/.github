@@ -46,7 +46,9 @@ Repositories in status Beta or Production may also occasionally be security audi
 
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
-| [kuksa-python-sdk ](https://github.com/eclipse-kuksa/kuksa-python-sdk)| Production | KUKSA Python Client and SDK
+| [kuksa-python-sdk](https://github.com/eclipse-kuksa/kuksa-python-sdk)| Production | KUKSA Python Client and SDK
+| [kuksa-java-sdk](https://github.com/eclipse-kuksa/kuksa-java-sdk)| Pre-Alpha | KUKSA Java Client and SDK
+
 
 ### Providers exchanging data with Databroker/Server
 
@@ -89,13 +91,7 @@ Repositories in status Beta or Production may also occasionally be security audi
 
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
-| [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
 | [kuksa-incubation](https://github.com/eclipse-kuksa/kuksa-incubation)| Alpha | Proof-of-Concepts, Demonstrators and other contributions that not (yet) qualify for being separate repositories
-| [kuksa.val.feeders](https://github.com/eclipse-kuksa/kuksa.val.feeders)| End-of-Life (Archived)| Feeders/Providers, all except deprecated providers migrated.
-| [kuksa.val.services](https://github.com/eclipse-kuksa/kuksa.val.services)| End-of-Life (Archived) | Examples services using KUKSA, all migrated
-
-
-## Other Eclipse KUKSA Repositories not in this organization
 
 ### Deprecated and Archived Repositories
 
@@ -105,3 +101,6 @@ Repositories in status Beta or Production may also occasionally be security audi
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
 | [kuksa.val](https://github.com/eclipse/kuksa.val)| Deprecated (EoL 2024-12-31) | KUKSA Server and some more deprecated artifacts
+| [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
+| [kuksa.val.feeders](https://github.com/eclipse-kuksa/kuksa.val.feeders)| End-of-Life (Archived)| Feeders/Providers, all except deprecated providers migrated.
+| [kuksa.val.services](https://github.com/eclipse-kuksa/kuksa.val.services)| End-of-Life (Archived) | Examples services using KUKSA, all migrated
