@@ -48,6 +48,7 @@ Repositories in status Beta or Production may also occasionally be security audi
 |-----------------------|----------------|---------------------|
 | [kuksa-python-sdk](https://github.com/eclipse-kuksa/kuksa-python-sdk)| Production | KUKSA Python Client and SDK
 | [kuksa-java-sdk](https://github.com/eclipse-kuksa/kuksa-java-sdk)| Pre-Alpha | KUKSA Java Client and SDK
+| [kuksa-rust-sdk](https://github.com/eclipse-kuksa/kuksa-rust-sdk)| Pre-Alpha | KUKSA Rust SDK
 
 
 ### Providers exchanging data with Databroker/Server
