@@ -102,6 +102,6 @@ Repositories in status Beta or Production may also occasionally be security audi
 |   Repository        | Status         | Content/Comment
 |-----------------------|----------------|---------------------|
 | [kuksa.val](https://github.com/eclipse/kuksa.val)| End-of-Life (Archived) | KUKSA Server and some more deprecated artifacts
-| [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| Deprecated (EoL 2024-12-31) | VISS2 compatible adapter for KUKSA Databroker
+| [kuksa-viss](https://github.com/eclipse-kuksa/kuksa-viss)| End-of-Life (Archived) | VISS2 compatible adapter for KUKSA Databroker
 | [kuksa.val.feeders](https://github.com/eclipse-kuksa/kuksa.val.feeders)| End-of-Life (Archived)| Feeders/Providers, all except deprecated providers migrated.
 | [kuksa.val.services](https://github.com/eclipse-kuksa/kuksa.val.services)| End-of-Life (Archived) | Examples services using KUKSA, all migrated
