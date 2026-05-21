@@ -11,15 +11,16 @@ See [kuksa-website](https://eclipse-kuksa.github.io/kuksa-website/).
 
 |   Status              | KUKSA Meaning                                               |
 |-----------------------|-----------------------------------------------------------------|
-| Planning              | No software/content exists
+| Planning              | No software/content exists.
 | Pre-Alpha             | In development, not expected to be functional.
-| Alpha                 | Usable for internal use for demo and Proof-of-Concept purposes
-| Beta                  | Usable for evaluation and testing purposes
-| Production            | Usable for production purposes, actively maintained, new versions regularly released, new features may be added
-| Mature                | Usable for production purposes, no new features planned, minimal maintenance
+| Alpha                 | Usable for internal use for demo and Proof-of-Concept purposes.
+| Beta                  | Usable for evaluation and testing purposes.
+| Production            | Usable for production purposes, actively maintained, new versions regularly released, new features may be added.
+| Mature                | Usable for production purposes, no new features planned, minimal maintenance.
+| Third Party           | Links to useful third party components that are *not maintained or supported by the KUKSA team*.
 | Deprecated            | Minimal maintenance, End-of-Life date for the repository has been communicated.
 | End-of-Life (Archived) | Product/Repo has reached End-of-Life. Pull Requests will not be accepted.
-| N/A                   | Repositories not following regular repository life cycle
+| N/A                   | Repositories not following regular repository life cycle.
 
 
 ## Security and Vulnerability process
@@ -49,6 +50,8 @@ Repositories in status Beta or Production may also occasionally be security audi
 | [kuksa-python-sdk](https://github.com/eclipse-kuksa/kuksa-python-sdk)| Production | KUKSA Python Client and SDK
 | [kuksa-java-sdk](https://github.com/eclipse-kuksa/kuksa-java-sdk)| Pre-Alpha | KUKSA Java Client and SDK
 | [kuksa-rust-sdk](https://github.com/eclipse-kuksa/kuksa-rust-sdk)| Pre-Alpha | KUKSA Rust SDK
+| [kuksa-dart-sdk](https://github.com/aki1770-del/kuksa_dart_sdk)| :warning: Third Party  | Dart/Flutter  SDK for KUKSA
+
 
 
 ### Providers exchanging data with Databroker/Server
